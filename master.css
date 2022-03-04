@@ -1,6 +1,13 @@
 body {
   background-color: #FFF89A;
 }
-h1 {
-  align-items: center;
+table {
+  width: 50%;
+}
+hr {
+  border-style: dotted none none none;
+  border-color: #ECECEC;
+  width: 3%;
+  border-width: 5px;
+
 }
